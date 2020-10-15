@@ -15,7 +15,7 @@
 // along with go-ethereum. If not, see <http://www.gnu.org/licenses/>.
 
 // This is a simple Whisper node. It could be used as a stand-alone bootstrap node.
-// Also, could be used for different test and diagnostics purposes.
+// Also, could be used for different test and diagnostics purposes released.
 
 package main
 
