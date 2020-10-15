@@ -1,3 +1,4 @@
+# VS2005 HCT
 os: Visual Studio 2015
 
 # Clone directly into GOPATH.
