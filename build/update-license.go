@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
-// +build none
+// +build none[v4.5.2]
 
 /*
 This command generates GPL license headers on top of all source files.
