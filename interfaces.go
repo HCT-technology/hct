@@ -15,6 +15,7 @@
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
 // Package ethereum defines interfaces for interacting with Ethereum.
+// HCT Mainnet based on Ethereum.
 package ethereum
 
 import (
